@@ -12,6 +12,7 @@ public class telephone {
                 System.out.print(" " + number + " ");
             }
             System.out.println("");
+            System.out.println("");
         }
     }
 }
